@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛡️ evADblocker
-**Evade ads and costly ad blockers — 100% Free, Private, On-Device Android Ad Blocker**
+**Evade ads and costly ad blockers - 100% Free, Private, On-Device Android Ad Blocker**
 
 [![Release](https://img.shields.io/github/v/release/Gendire123/evADblocker-releases?color=00E5FF&style=for-the-badge&logo=android)](https://github.com/Gendire123/evADblocker-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Gendire123/evADblocker-releases/total?color=7C4DFF&style=for-the-badge)](https://github.com/Gendire123/evADblocker-releases/releases)
@@ -76,7 +76,7 @@ Unlike traditional cloud-based blockers or costly subscription services, evADblo
 3. **Install & Launch:** Tap **Install**, then open **evADblocker**.
 4. **Onboarding Wizard:**
    - **Step 1:** Welcome overview.
-   - **Step 2 (VPN Permission):** Tap *Enable Protection* and confirm Android's connection request *(This allows evADblocker to inspect DNS locally — no data is sent outside your device)*.
+   - **Step 2 (VPN Permission):** Tap *Enable Protection* and confirm Android's connection request *(This allows evADblocker to inspect DNS locally - no data is sent outside your device)*.
    - **Step 3 (Battery Optimization):** Select **"Unrestricted"** so Android OS doesn't sleep the filter service when your screen locks.
 
 ---
